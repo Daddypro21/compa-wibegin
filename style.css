@@ -260,6 +260,9 @@ footer{
     nav{
        width:100%;
        margin:0;
+       display:grid;
+        grid-template-columns: 10% 40% 20%;
+        gap:5px;
        
     }
 
@@ -277,14 +280,14 @@ footer{
     }
 
     .card-box{
-        width:80%;
+        width:90%;
         display:grid;
         grid-template-columns:100%;
         gap: 20px;
     }
 
     .category-platform{
-        width:80%;
+        width:90%;
         display:grid;
         grid-template-columns: 100% ;
         gap:20px; 
@@ -310,7 +313,7 @@ footer{
         display: grid;
         grid-template-columns: 1fr 1fr ;
         gap:20px;
-        width: 80%;
+        width: 90%;
         margin:20px auto;
         gap:20px;
        
