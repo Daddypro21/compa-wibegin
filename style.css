@@ -296,7 +296,7 @@ footer{
 
     .platform{
         display:grid;
-        grid-template-columns: 1fr 1fr 1fr  ;
+        grid-template-columns: 1fr 1fr  ;
         gap:20px;
         font-size:14px;
         background-color: blanchedalmond;
@@ -304,7 +304,7 @@ footer{
     }
     .category{
         display:grid;
-        grid-template-columns: 1fr 1fr 1fr  ;
+        grid-template-columns: 1fr 1fr  ;
         gap:20px;
         font-size:14px;
         padding:20px 20px;
