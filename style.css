@@ -12,6 +12,8 @@ body{
 header{
     margin-bottom:20px;
     width:100%;
+    position:sticky;
+    top:0;
 }
 
 nav{
@@ -30,7 +32,7 @@ nav{
 }
 nav ul{
     display:flex;
-    /* width:50%; */
+     width:50%;
     margin:auto;
     
 }
