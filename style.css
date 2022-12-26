@@ -6,12 +6,9 @@
 }
 header{
     margin-bottom:20px;
-    position:sticky;
-    top:0;
+    width:100%;
 }
-.other{
-    padding:20px 0px;
-}
+
 nav{
     display:grid;
     grid-template-columns: 10% 40% 20%;
@@ -28,7 +25,7 @@ nav{
 }
 nav ul{
     display:flex;
-    width:50%;
+    /* width:50%; */
     margin:auto;
     
 }
@@ -42,7 +39,7 @@ nav .button-action{
     display:flex;
 }
 nav .button-action button {
-    margin:0px 5px;
+    margin:0px 2px;
     color:#fff;
 }
 .white{
@@ -321,5 +318,8 @@ footer{
     }
 }
 
+
+
+/* ............media 10000 */
 
 
