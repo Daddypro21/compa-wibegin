@@ -16,8 +16,8 @@ nav{
     display:grid;
     grid-template-columns: 10% 40% 20%;
     gap:20px;
-    width:90%;
-    margin:10px auto;
+    width:100%;
+    margin: auto;
     padding:10px 10px;
     border-bottom: 5px solid rgb(75, 10, 194);
     background-color: rgb(75, 10, 194);
@@ -124,7 +124,7 @@ section{
     color:rgb(207, 198, 198);
 }
 .box-fame-post .box-fame-2 button{
-    margin-left: 350px;
+    margin-left: 100px;
 }
 .latest-post{
     width:80%;
